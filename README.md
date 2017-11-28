@@ -1,2 +1,2 @@
 # shapeless-exercises
-学习一个shapeless
+学习一下shapeless
