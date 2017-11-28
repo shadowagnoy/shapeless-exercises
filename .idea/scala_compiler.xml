@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="shapeless-exercises">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <plugins>
+        <plugin path="E:\soft\maven\mvn_res\org\scalamacros\paradise_2.10.6\2.0.1\paradise_2.10.6-2.0.1.jar" />
+      </plugins>
+    </profile>
+  </component>
+</project>
